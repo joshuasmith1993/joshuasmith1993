@@ -1,5 +1,5 @@
 # I'm @joshuasmith1993
- - 🔑 721E C681 9C6F D03C AC4D C01C E973 AFA6 0A2C 6F90
+ - [🔑 pgp](https://keys.openpgp.org/vks/v1/by-fingerprint/721EC6819C6FD03CAC4DC01CE973AFA60A2C6F90) 
 
 <!---
 joshuasmith1993/joshuasmith1993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
